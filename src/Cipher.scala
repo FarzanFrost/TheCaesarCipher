@@ -1,7 +1,7 @@
 object Cipher extends App{
 
     val alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
-    val key = 1
+    val key = 2
     val singlechar = 'A'
     val wordString:String = "frosty"
 
